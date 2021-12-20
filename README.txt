@@ -1,10 +1,4 @@
-  <div>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/iasmim-marinho-66a60a219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
- 
-[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>]( https://www.linkedin.com/in/iasmim-marinho-66a60a219)
-</h1>
+
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]( https://t.me/rossmann_pred_model_bot)
 </h1>
 
