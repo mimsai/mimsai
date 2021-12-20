@@ -11,13 +11,13 @@ Nesta página, demonstro minhas habilidades em resolver problemas de negócio ut
 
 Sou natural do Amazonas e tenho formações nas áreas de Ciências Náuticas e Telecomunicações. Busco uma oportunidade para migrar de carreira e trabalhar profissionalmente como Cientista de Dados e, assim, auxiliar na tomada de decisão da empresa, por meio da construção de soluções usando dados.
 
-Meu interesse por Ciência de Dados começou em 2021, após terminar a graduação e ter passado um ano embarcada em navios comerciais, iniciei a procura por cursos de pós-graduação. Por minhas experiências acadêmicas anteriores na área de desenvolvimento de Projetos em Telecomunições durante o Ensino Médio Técnico, encontrei cursos voltadas para as àreas de Informação, Big Data e Machine Learning e, desde então, aprofundei meus conhecimentos em Linguagem de Programação e em Ciência de Dados.
+Meu interesse por Ciência de Dados começou em 2021, após terminar a graduação e ter passado um ano embarcada em navios comerciais, iniciei a procura por cursos de pós-graduação. Por minhas experiências acadêmicas anteriores na área de desenvolvimento de Projetos em Telecomunicações durante o Ensino Médio Técnico, encontrei cursos voltados para as àreas de Informação, Big Data e Machine Learning e, desde então, aprofundei meus conhecimentos em Linguagem de Programação e em Ciência de Dados.
 
 Atualmente meus estudos são voltados a aprender e desenvolver projetos relacionados a Data Science e Machine Learning, com finalidade de resolver problemas de negócios para auxílio de tomada de decisão.
 
 </ul>
 
-### 🧐 Github Stats
+#### 🧐 Github Stats
 
 <a href="https://github.com/mimsai">
    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimsai&layout=compact"/>
