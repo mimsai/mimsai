@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/iasmim-marinho-66a60a219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
-
+<u>
 ### Olá!
 Seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados.  👋,
 
@@ -20,7 +20,7 @@ Atualmente meus estudos são voltados a aprender e desenvolver projetos relacion
 ### 🧐 Github Stats
 
  <div>
-   <a href="https://github.com/letpires">
+   <a href="https://github.com/mimsai">
    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mimsai&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimsai&layout=compact&langs_count=16&theme=radical"/>
 <div>
