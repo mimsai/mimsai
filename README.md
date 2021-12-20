@@ -1,4 +1,4 @@
-### Olá!Seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados.  👋,
+### Olá! Seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados.  👋,
 
 <ul>
   
