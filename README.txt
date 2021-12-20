@@ -1,6 +1,3 @@
-# ![](https://github.com/letpires/letpires/blob/main/capa%20Github%20(1).png)
-
-
   <div>
   <p align="center">
     <a href="https://www.linkedin.com/in/iasmim-marinho-66a60a219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -28,8 +25,4 @@ Atualmente meus estudos são voltados a aprender e desenvolver projetos relacion
    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimsai&layout=compact&langs_count=16&theme=radical"/>
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimsai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-  
- 
-  ![Snake animation](https://github.com/letpires/letpires/blob/output/github-contribution-grid-snake.svg)
  
