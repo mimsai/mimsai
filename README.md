@@ -20,6 +20,6 @@ Atualmente meus estudos são voltados a aprender e desenvolver projetos relacion
 ### 🧐 Github Stats
 
 <a href="https://github.com/mimsai">
-   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimsai&layout=compact&langs_count=16&theme=radical"/>
+   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimsai&layout=compact"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimsai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
