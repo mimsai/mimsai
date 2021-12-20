@@ -1,12 +1,12 @@
+<ul>
+### Olá!Seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados.  👋,
 
 <div>
   <p align="center">
     <a href="https://www.linkedin.com/in/iasmim-marinho-66a60a219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-<ul>
-### Olá!
-Seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados.  👋,
+
 
 Nesta página, demonstro minhas habilidades em resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, por meio de projetos com dados públicos.
 
