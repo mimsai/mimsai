@@ -13,9 +13,7 @@
   
 Nesta página, demonstro minhas habilidades em resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, por meio de projetos com dados públicos.
 
-Sou natural do Amazonas e tenho formações nas áreas de Ciências Náuticas e Telecomunicações. Busco uma oportunidade para migrar de carreira e trabalhar profissionalmente na área de Tecnologia da Informação e Data e, assim, auxiliar na tomada de decisão da empresa, por meio da construção de soluções usando dados.
-
-Meu interesse por Ciência de Dados começou em 2021, após terminar a graduação e ter passado um ano embarcada em navios comerciais, iniciei a procura por cursos de pós-graduação. Por minhas experiências acadêmicas anteriores na área de desenvolvimento de Projetos em Telecomunicações durante o Ensino Médio Técnico, encontrei cursos voltados para as àreas de Informação, Big Data e Machine Learning e, desde então, aprofundei meus conhecimentos em Linguagem de Programação e em Ciência de Dados.
+Sou natural do Amazonas e tenho formações nas áreas de Ciências Náuticas e Telecomunicações.
 
 Atualmente meus estudos são voltados a aprender e desenvolver projetos relacionados a Data Science e Machine Learning, com finalidade de resolver problemas de negócios para auxílio de tomada de decisão.
 
